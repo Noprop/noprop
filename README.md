@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Greg! 👋 
+
+- 💼 Software Developer @ The Dunham Group
+- 💻 Typescript, React, Python  
+- 📫 How to reach me: 
+  - Email: 12greg21@gmail.com
+
 
 <!--
 **Noprop/noprop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
