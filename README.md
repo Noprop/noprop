@@ -4,6 +4,7 @@
 - 💻 Typescript, React, Python  
 - 📫 How to reach me: 
   - Email: 12greg21@gmail.com
+  - Linkedin: https://www.linkedin.com/in/greg-forster/
 
 
 <!--
