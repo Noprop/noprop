@@ -1,6 +1,5 @@
 ### Hi there, I'm Greg! 👋 
 
-- 💼 Web Developer @ The Dunham Group
 - 💻 Typescript, React, Python  
 - 📫 How to reach me: 
   - Email: 12greg21@gmail.com
